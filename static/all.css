@@ -1,0 +1,12 @@
+body{
+    background: url("mon.jpg");
+}
+.main{
+    border-radius: 100px;
+    background-color: #15AAD7;
+    color: white;
+    padding: 10px;
+    border: solid 3px #0F7391;
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+ }
